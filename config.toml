@@ -1,0 +1,19 @@
+
+baseURL = "http://localhost:1313/"
+languageCode = "es-ES"
+title = "Guillemo."
+theme = "kiera"
+
+pygmentsCodeFences = true
+
+[author]
+    name      = "Guillermo Parra Astorga"
+    github    = "yogparra"
+    gitlab    = "yogparra"
+    linkedin  = "yogparra"   
+    twitter   = "yogparra" 
+    instagram = "yogparra"  
+    
+
+[params]
+    tagline = "Blog"
