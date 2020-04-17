@@ -1,5 +1,5 @@
 
-baseURL = "http://localhost:1313/"
+baseURL = "https://yogparra-github-io.now.sh"
 languageCode = "es-ES"
 title = "Guillemo."
 theme = "kiera"
